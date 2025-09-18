@@ -40,12 +40,8 @@ mars-rover-qlearning/
 
 -----------------------------------------------------
  Installation
------------------------------------------------------
-1. Clone the repository:
-   git clone https://github.com/YOUR-USERNAME/mars-rover-qlearning.git
-   cd mars-rover-qlearning
 
-2. Install dependencies:
+1. Install dependencies:
    pip install -r requirements.txt
 
 -----------------------------------------------------
