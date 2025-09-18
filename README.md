@@ -54,7 +54,7 @@ mars-rover-qlearning/
    python visualization.py
 
 3. Run the rover with a trained policy:
-   python qlearning_agent.py --test
+   python qlearning.py
 
 -----------------------------------------------------
  Hyperparameters
@@ -65,6 +65,6 @@ The main Q-learning hyperparameters are in qlearning_agent.py:
 - epsilon  : Exploration rate
 - episodes : Number of training episodes
 
- Contributions
------------------------------------------------------
-Contributions are welcome! Please open an issue or submit a pull request.
+ Query
+---------------------------------------------------
+Please open an issue or submit a pull request.
