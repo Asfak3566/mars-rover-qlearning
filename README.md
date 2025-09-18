@@ -69,12 +69,6 @@ The main Q-learning hyperparameters are in qlearning_agent.py:
 - epsilon  : Exploration rate
 - episodes : Number of training episodes
 
------------------------------------------------------
- License
------------------------------------------------------
-This project is licensed under the MIT License.
-
------------------------------------------------------
  Contributions
 -----------------------------------------------------
 Contributions are welcome! Please open an issue or submit a pull request.
